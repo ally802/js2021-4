@@ -19,12 +19,16 @@
 4. if else if 조건문
 
         if (<불 표현식>) {
+        
         } 
         else if (<불 표현식>) {
+        
         } 
         else if(<불 표현식>) {
+        
         } 
         else {
+        
         }
 
 
